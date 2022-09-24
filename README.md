@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lwbolton
-- 👀 I’m interested in all things software developement, from both ends of development all the way 
--    to the decision making processes of creating a specific software.
+- 👀 I’m interested in all things software developement and VR.
 - 🌱 I’m currently learning web developement in my software developement collage pathway.
-- 💞️ I’m looking to collaborate on (to be determined)...
+- 💞️ I’m looking to collaborate on web projects...
 - 📫 How to reach me (not yet applicable)...
 
 <!---
